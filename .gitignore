@@ -1,0 +1,7 @@
+**/package
+artificer-extract-materials/
+
+*.zip
+*.tar
+*.json
+
